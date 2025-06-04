@@ -1,0 +1,11 @@
+@media(min-width: 992px) {
+    body {
+        background-color: tomato;
+    }
+}
+
+@media(max-width: 576px) {
+    body {
+        background-color: cadetblue;
+    }
+}
